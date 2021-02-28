@@ -14,3 +14,6 @@ python app.py --link product_link --delay 300 --price 25 --webhook discord_webho
 -p, --price     Desired price
 -w, --webhook   Discord webhook URL
 ```
+
+## Discord Notification
+![alt text](https://i.ibb.co/f4qLL0x/example.jpg)
